@@ -18,7 +18,7 @@ Official repository for the paper "CellVerse: Do Large Language Models Really Un
 -->
 
 ## 💥 News
-- **[2025.05.08]** 🚀 We release the ***test*** set of CellVerse at [[🤗 Huggingface Dataset]](https://huggingface.co/datasets/Karl28/CellVerse), and the [inference code](https://github.com/zfkarl/CellVerse/?tab=readme-ov-file#inference)!
+- **[2025.05.08]** 🚀 We release the ***test*** set of CellVerse at [[🤗 Huggingface Dataset]](https://huggingface.co/datasets/Karl28/CellVerse), and the [inference code](https://github.com/zfkarl/CellVerse/tree/master/evaluation)!
 
 ## 👀 About CellVerse
 
