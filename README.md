@@ -15,10 +15,10 @@ Official repository for the paper "CellVerse: Do Large Language Models Really Un
 🌟 For more details, please refer to the project page with dataset exploration and visualization tools: [https://mathverse-cuhk.github.io/](https://mathverse-cuhk.github.io/).
 
 [[🌐 Webpage](https://mathverse-cuhk.github.io/)] [[📖 Paper](https://arxiv.org/pdf/2403.14624.pdf)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/Karl28/CellVerse)] [[🏆 Leaderboard](https://mathverse-cuhk.github.io/#leaderboard)]
+-->
 
 ## 💥 News
-- **[2024.03.22]** 🚀 We release the [arXiv paper](https://arxiv.org/pdf/2403.14624), the ***testmini*** set of MathVerse at [[🤗 Huggingface Dataset]](https://huggingface.co/datasets/AI4Math/MathVerse), and the [evaluation code](https://github.com/ZrrSkywalker/MathVerse?tab=readme-ov-file#evaluation)!
--->
+- **[2025.05.08]** 🚀 We release the ***test*** set of CellVerse at [[🤗 Huggingface Dataset]](https://huggingface.co/datasets/Karl28/CellVerse), and the [inference code](https://github.com/zfkarl/CellVerse/?tab=readme-ov-file#inference)!
 
 ## 👀 About CellVerse
 
@@ -34,16 +34,16 @@ To this end, we introduce **CellVerse**, a language-centric single-cell analysis
     <img src="figs/fig_cellverse.png" width="95%"> <br>
 </p>
 
-In addition, we systematically evaluate the performance of 14 open-source an closed-source advanced LLMs on CellVerse.
+In addition, we systematically evaluate the performance of 14 open-source and closed-source advanced LLMs on CellVerse.
 
 
-## 🚀 Evaluation
+## 🚀 Inference
 
-We provide two formats for evaluating CellVerse using APIs and [vLLM](https://github.com/vllm-project/vllm).
+We provide two formats for inference on CellVerse using APIs and [vLLM](https://github.com/vllm-project/vllm).
 
-Evaluating using APIs:
+Inference using APIs:
 ```bash
-python ./evaluation/eval_api.py \
+python ./evaluation/infer_api.py \
     --model_name "$Model" \
     --openai_api_key "$API" \
     --base_url "$URL" \
@@ -52,15 +52,15 @@ python ./evaluation/eval_api.py \
 ```
 
 
-Evaluating using [vLLM](https://github.com/vllm-project/vllm):
+Inference using [vLLM](https://github.com/vllm-project/vllm):
 ```bash
-python ./evaluation/eval_vllm.py \
+python ./evaluation/infer_vllm.py \
     --model_name "$Model" \
     --output_path "./results/response.json" \
     --dataset_path "./data/cta_scrna_full.json" 
 ```
 
-## 💪 Calculating Metrics
+## 💪 Evaluation
 
 After getting model responses (saved in `output_path`), you can extract the answer and calculate the metrics.
 
