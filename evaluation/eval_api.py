@@ -16,7 +16,6 @@ def parse_arguments():
 
 args = parse_arguments()
 
-# 使用命令行参数替换原来的硬编码值
 model_name = args.model_name
 output_path = args.output_path
 dataset_path = args.dataset_path
