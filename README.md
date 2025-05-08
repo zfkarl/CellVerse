@@ -9,7 +9,7 @@
 ![LLaMA](https://img.shields.io/badge/Model-LLaMA-green)
 ![Qwen](https://img.shields.io/badge/Model-Qwen-green)
 
-Official repository for the paper "CellVerse: Do Large Language Models Really Understand Cell Biology?".
+Official repository for the paper "CellVerse: Do Large Language Models Really Understand Cell Biology?"
 
 <!--
 🌟 For more details, please refer to the project page with dataset exploration and visualization tools: [https://mathverse-cuhk.github.io/](https://mathverse-cuhk.github.io/).
