@@ -1,0 +1,962 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing HARS in K562 cells cause significant changes in the expression of SAMD9? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing CCND3 in K562 cells cause significant changes in the expression of SDE2? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing PSMD4 in K562 cells cause significant changes in the expression of MYCN? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SEC61B in K562 cells cause significant changes in the expression of NBEAL2? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing EIF2B2 in K562 cells cause significant changes in the expression of ARHGAP9? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing EIF2B4 in K562 cells cause significant changes in the expression of G3BP2? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing NEDD8 in K562 cells cause significant changes in the expression of GFI1B? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing EIF2B3 in K562 cells cause significant changes in the expression of DNAJB4? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing CARS in K562 cells cause significant changes in the expression of CUL9? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing ZNF326 in K562 cells cause significant changes in the expression of ELF1? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing ZNF326 in K562 cells cause significant changes in the expression of SMARCAD1? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing EIF2B3 in K562 cells cause significant changes in the expression of C6orf106? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing STT3A in K562 cells cause significant changes in the expression of IKZF2? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing YIPF5 in K562 cells cause significant changes in the expression of PTGS1? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing DARS in K562 cells cause significant changes in the expression of RIOK2? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing OST4 in K562 cells cause significant changes in the expression of SEC63? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing UFM1 in K562 cells cause significant changes in the expression of CCNE2? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SRP68 in K562 cells cause significant changes in the expression of CD3EAP? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing FARSB in K562 cells cause significant changes in the expression of DOK3? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing FARSB in K562 cells cause significant changes in the expression of ORAI2? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing TIMM44 in K562 cells cause significant changes in the expression of NFKBIE? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing GNPNAT1 in K562 cells cause significant changes in the expression of DOCK11? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing GMPPB in K562 cells cause significant changes in the expression of TUBB3? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing CHERP in K562 cells cause significant changes in the expression of NAV1? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing QARS in K562 cells cause significant changes in the expression of PCM1? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing CARS in K562 cells cause significant changes in the expression of ASRGL1? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing CARS in K562 cells cause significant changes in the expression of ZNF672? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing FARSB in K562 cells cause significant changes in the expression of IFI35? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SEC61B in K562 cells cause significant changes in the expression of GDPD5? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SRP72 in K562 cells cause significant changes in the expression of ANKRD33? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SEL1L in K562 cells cause significant changes in the expression of KIAA1919? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing CHERP in K562 cells cause significant changes in the expression of CLINT1? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing HSD17B12 in K562 cells cause significant changes in the expression of TMEM50B? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SRPR in K562 cells cause significant changes in the expression of RAB33A? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing DNAJC19 in K562 cells cause significant changes in the expression of TTC19? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing PDIA6 in K562 cells cause significant changes in the expression of C14orf1? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SEC61G in K562 cells cause significant changes in the expression of TNRC6B? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing PDIA6 in K562 cells cause significant changes in the expression of PPL? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing MANF in K562 cells cause significant changes in the expression of ZNF175? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SLC39A7 in K562 cells cause significant changes in the expression of SLC39A10? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing AMIGO3 in K562 cells cause significant changes in the expression of C1orf162? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SEC61G in K562 cells cause significant changes in the expression of TMEM156? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing ARHGAP22 in K562 cells cause significant changes in the expression of CCDC6? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing CCND3 in K562 cells cause significant changes in the expression of NFKBIE? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing GNPNAT1 in K562 cells cause significant changes in the expression of TMCO1? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SLC35B1 in K562 cells cause significant changes in the expression of SEC31A? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing COPB1 in K562 cells cause significant changes in the expression of TMEM2? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SEC63 in K562 cells cause significant changes in the expression of SLC44A5? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing ASCC3 in K562 cells cause significant changes in the expression of N4BP2? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing ZNF326 in K562 cells cause significant changes in the expression of SPEN? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing PDIA6 in K562 cells cause significant changes in the expression of HM13? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing PSMD4 in K562 cells cause significant changes in the expression of GADD45G? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SRPRB in K562 cells cause significant changes in the expression of SUCO? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing ASCC3 in K562 cells cause significant changes in the expression of PDK2? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing IER3IP1 in K562 cells cause significant changes in the expression of POMP? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing TMEM167A in K562 cells cause significant changes in the expression of SMAGP? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing XRN1 in K562 cells cause significant changes in the expression of PRPF3? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing ASCC3 in K562 cells cause significant changes in the expression of MLKL? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing EIF2B4 in K562 cells cause significant changes in the expression of ST5? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SLC39A7 in K562 cells cause significant changes in the expression of FCGRT? Make your answer in format 'Final Answer: Yes' or 'Final Answer: No'."
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  }
+]

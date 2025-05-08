@@ -1,0 +1,866 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing CCND3 in K562 cells cause the expression of SDE2 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing NEDD8 in K562 cells cause the expression of GFI1B to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing ZNF326 in K562 cells cause the expression of ELF1 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing ZNF326 in K562 cells cause the expression of SMARCAD1 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing YIPF5 in K562 cells cause the expression of PTGS1 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing UFM1 in K562 cells cause the expression of CCNE2 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing QARS in K562 cells cause the expression of PCM1 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing FARSB in K562 cells cause the expression of IFI35 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing HSD17B12 in K562 cells cause the expression of TMEM50B to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing DNAJC19 in K562 cells cause the expression of TTC19 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SEC61G in K562 cells cause the expression of TNRC6B to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SLC39A7 in K562 cells cause the expression of SLC39A10 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing ZNF326 in K562 cells cause the expression of SPEN to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing XRN1 in K562 cells cause the expression of PRPF3 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing IDH3A in K562 cells cause the expression of WDR26 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing TTI1 in K562 cells cause the expression of HIST1H2AE to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing DARS in K562 cells cause the expression of ASNS to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing TTI1 in K562 cells cause the expression of CDCA7 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SEC63 in K562 cells cause the expression of WBP1L to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing TTI2 in K562 cells cause the expression of S100A1 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing BHLHE40 in K562 cells cause the expression of HOXB2 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing CHERP in K562 cells cause the expression of ZCCHC6 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing AARS in K562 cells cause the expression of FAM129A to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing XRN1 in K562 cells cause the expression of DEF6 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing CREB1 in K562 cells cause the expression of ZBTB43 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SEC61B in K562 cells cause the expression of OS9 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing AARS in K562 cells cause the expression of PSAT1 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing TMED10 in K562 cells cause the expression of GALNT7 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing IER3IP1 in K562 cells cause the expression of ARFGAP3 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SARS in K562 cells cause the expression of TGIF1 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SPCS3 in K562 cells cause the expression of GNPTAB to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing TIMM44 in K562 cells cause the expression of SIL1 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing BHLHE40 in K562 cells cause the expression of ATF4 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing COPZ1 in K562 cells cause the expression of FNDC3A to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing EIF2S1 in K562 cells cause the expression of AHNAK to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing BHLHE40 in K562 cells cause the expression of ZBTB11 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing EIF2S1 in K562 cells cause the expression of XRN1 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing DERL2 in K562 cells cause the expression of TMC6 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing PPWD1 in K562 cells cause the expression of ANKRD12 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing DDIT3 in K562 cells cause the expression of ARID5A to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing HYOU1 in K562 cells cause the expression of ASCC3 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing DDIT3 in K562 cells cause the expression of CEBPB to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SARS in K562 cells cause the expression of PRRC2B to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing TMED2 in K562 cells cause the expression of GOLIM4 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing HSPA9 in K562 cells cause the expression of DDX39A to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing DDIT3 in K562 cells cause the expression of CEBPG to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing TMED10 in K562 cells cause the expression of TRIP11 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SARS in K562 cells cause the expression of KLF3 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SEC61A1 in K562 cells cause the expression of ORAI3 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing HSPA5 in K562 cells cause the expression of CRYAB to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing DDRGK1 in K562 cells cause the expression of DDRGK1 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SLMO2 in K562 cells cause the expression of PITPNB to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing SLMO2 in K562 cells cause the expression of SLMO2 to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert who knows a lot about single cell biology and genomics and will help me solve a series of tasks related to single cell data analysis."
+      },
+      {
+        "role": "user",
+        "content": "Does perturbing CAD in K562 cells cause the expression of CAD to upregulate or downregulate? Make your answer in format 'Final Answer: Up' or 'Final Answer: Down'."
+      },
+      {
+        "role": "assistant",
+        "content": "Down"
+      }
+    ]
+  }
+]
