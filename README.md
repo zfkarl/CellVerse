@@ -64,7 +64,7 @@ python ./evaluation/infer_vllm.py \
 
 After getting model responses (saved in `output_path`), you can extract the answer and calculate the metrics.
 
-Here we provide a result example at `./results/ms_cta_response_deepseek_r1.json`.
+Here we provide an example of the extracted answer at `./results/ms_cta_response_deepseek_r1.json`.
 
 
 
