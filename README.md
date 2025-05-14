@@ -87,19 +87,22 @@ Here we provide an example of the extracted answer at `./results/ms_cta_response
 | 12    | **C2S-Pythia-410M**  | Open     | [Link](https://huggingface.co/vandijklab/C2S-Pythia-410m-diverse-single-and-multi-cell-tasks) | 2024-09 | 0.00| 0.00 |	0.00 |	0.00 |	0.00 |	0.00 |	0.00  | 
 | 12    | **C2S-Pythia-160M**  | Open     | [Link](https://huggingface.co/vandijklab/pythia-160m-c2s) | 2024-02 | 0.00| 0.00 |	0.00 |	0.00 |	0.00 |	0.00 |	0.00  | 
 
-<!--
+
 ## :white_check_mark: Citation
 
 If you find **CellVerse** useful for your research and applications, please kindly cite using this BibTeX:
 
 ```latex
-@article{zhang2024mathverse,
-  title={MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?},
-  author={Zhang, Renrui and Jiang, Dongzhi and Zhang, Yichi and Lin, Haokun and Guo, Ziyu and Qiu, Pengshuo and Zhou, Aojun and Lu, Pan and Chang, Kai-Wei and Gao, Peng and others},
-  journal={arXiv preprint arXiv:2403.14624},
-  year={2024}
+@misc{zhang2025cellverselargelanguagemodels,
+      title={CellVerse: Do Large Language Models Really Understand Cell Biology?}, 
+      author={Fan Zhang and Tianyu Liu and Zhihong Zhu and Hao Wu and Haixin Wang and Donghao Zhou and Yefeng Zheng and Kun Wang and Xian Wu and Pheng-Ann Heng},
+      year={2025},
+      eprint={2505.07865},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.QM},
+      url={https://arxiv.org/abs/2505.07865}, 
 }
 ```
--->
+
 
 🔥 Please contact `zfkarl1998@gmail.com` if you would like to contribute to the leaderboard or have any problems.
