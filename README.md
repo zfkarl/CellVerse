@@ -11,11 +11,11 @@
 
 Official repository for the paper "CellVerse: Do Large Language Models Really Understand Cell Biology?"
 
-<!--
-🌟 For more details, please refer to the project page with dataset exploration and visualization tools: [https://mathverse-cuhk.github.io/](https://mathverse-cuhk.github.io/).
 
-[[🌐 Webpage](https://mathverse-cuhk.github.io/)] [[📖 Paper](https://arxiv.org/pdf/2403.14624.pdf)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/Karl28/CellVerse)] [[🏆 Leaderboard](https://mathverse-cuhk.github.io/#leaderboard)]
--->
+🌟 For more details, please refer to the project page: [https://cellverse-cuhk.github.io](https://cellverse-cuhk.github.io/).
+
+[[🌐 Webpage](https://cellverse-cuhk.github.io/)] [[📖 Paper](https://arxiv.org/pdf/2505.07865)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/Karl28/CellVerse)] [[🏆 Leaderboard](https://cellverse-cuhk.github.io/#leaderboard)]
+
 
 ## 💥 News
 - **[2025.05.08]** 🚀 We release the ***test*** set of CellVerse at [[🤗 Huggingface Dataset]](https://huggingface.co/datasets/Karl28/CellVerse), and the [inference code](https://github.com/zfkarl/CellVerse/tree/master/evaluation)!
